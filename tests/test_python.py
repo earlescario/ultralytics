@@ -6,7 +6,7 @@ from pathlib import Path
 
 import cv2
 import numpy as np
-import pytest
+import pytest # type: ignore
 import torch
 import yaml
 from PIL import Image
